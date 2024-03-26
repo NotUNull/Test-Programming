@@ -1,0 +1,29 @@
+.table-head {
+    background-color: #77adff;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 40px;
+    
+}
+
+.flex-container p {
+    padding: 5px;
+    border: 1px solid gray;
+    font-weight: 500;
+}
+
+.file-name {
+    text-decoration: underline;
+}
+
+p {
+    margin: 0px;
+}
+
+button {
+    width: 150px;
+    margin: 0px 10px;
+}

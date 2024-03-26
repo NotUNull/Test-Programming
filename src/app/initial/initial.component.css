@@ -1,0 +1,37 @@
+h1 {
+    margin-bottom: 40px;
+    margin-top: 5px;
+    color: darkslateblue;
+}
+
+.container {
+    border: 1px solid cadetblue;
+    padding: 0px 40px 40px 40px;
+    margin: 0px;
+}
+
+.page {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+span {
+    color: red;
+    font-weight: 900;
+}
+
+button {
+    width: 150px;
+    margin: 0px 10px;
+}
+
+.form-control {
+    display: inline !important;
+    width: 70% !important;
+}
+
+label {
+    margin-right: 10px;
+}

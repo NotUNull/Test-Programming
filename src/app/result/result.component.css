@@ -1,0 +1,18 @@
+h1 {
+    margin-bottom: 80px;
+    margin-top: 5px;
+    color: darkslateblue;
+}
+
+.container {
+    border: 1px solid cadetblue;
+    padding: 0px 40px 40px 40px;
+    margin: 0px;
+}
+
+.page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
